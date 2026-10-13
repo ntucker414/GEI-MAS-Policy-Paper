@@ -1,0 +1,251 @@
+﻿Material_Type,Retro_Proactive,Rev_1,Rev_2,Spatial_Scale,Bio_Obj,Concepts_Mentioned,Doc_Type,State_ifapp,State,Lat,Lon,Physical_Obj,Social_Econ_Obj,Target_SH
+Rock,Retro,Nick,0,State,Biodiversity,Creation of AR Mat,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Metal,Pro,Will,Will,County/Local,Habitat,Fish.Enhancement,State_Code,5,Connecticut,41.6,-72.7,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Other,Pro,Nick,0,State,Aggregation,Fish.Enhancement,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Metal,Pro,LM,0,County/Local,Biodiversity,Rec.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Rock,Unsure,Cyndi,Cyndi,County/Local,Production,Rec.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Composite,Retro,Will,Will,State,Habitat,Comm.Fish.Mngmt,State_Code,12,South Carolina,33.8333,-81.1667,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Metal,Pro,Will,Will,State,Habitat,Fish.Enhancement,State_Code,3,Massachussetts,42.4,-71.3833,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Composite,Pro,Will,Will,Regional,Biodiversity,Comm.Fish.Mngmt,State_Code,12,South Carolina,33.8333,-81.1667,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Concrete,Unsure,Will,Will,Regional,Production,Creation of AR Mat,State_Code,20,Oregon,43.9333,-120.5667,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Composite,Pro,Nick,0,State,Aggregation,Creation of AR Mat,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Tires/Rubber,Pro,Jon,Nick,State,Aggregation,Fish.Enhancement,State_Plan,23,Hawaii,20.95,-157.2833,Mitig.,Chart_Fish,Permit_reg_agencies
+Tires/Rubber,Retro,Jon,Nick,Regional,Aggregation,Fish.Enhancement,State_Plan,9,Maryland,39.05,-76.6333,Mitig.,Chart_Fish,Permit_reg_agencies
+Rock,Pro,Jon,Nick,Regional,Biodiversity,Fish.Enhancement,State_Plan,21,Washington,47.75,-120.7333,Mitig.,Chart_Fish,Permit_reg_agencies
+Tires/Rubber,Unsure,Will,Will,Regional,Biodiversity,Rec.Fish.Mngmt,State_Code,7,New Jersey,39.8333,-74.8667,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Tires/Rubber,Pro,Jon,Nick,Regional,Biodiversity,Creation of AR Mat,State_Plan,15,Texas,31.4667,-99.3333,Mitig.,Chart_Fish,Permit_reg_agencies
+Tires/Rubber,Retro,Nick,0,County/Local,Production,Comm.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Metal,Pro,Nick,0,State,Production,Rec.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Metal,Pro,Will,Will,County/Local,Aggregation,Fish.Enhancement,State_Code,5,Connecticut,41.6,-72.7,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Concrete,Pro,Jon,Nick,County/Local,Aggregation,Creation of AR Mat,State_Plan,18,Alabama,32.8333,-86.6333,Mitig.,Chart_Fish,Permit_reg_agencies
+Tires/Rubber,Pro,Cyndi,Cyndi,Regional,Aggregation,Comm.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Rock,Pro,Jon,Nick,Regional,Production,Fish.Enhancement,State_Plan,22,Alaska,64.7333,-152.4667,Mitig.,Chart_Fish,Permit_reg_agencies
+Rock,Unsure,Will,Will,State,Habitat,Comm.Fish.Mngmt,State_Code,8,Delaware,38.9833,-75.5167,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Tires/Rubber,Retro,LM,0,Regional,Biodiversity,Fish.Enhancement,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Metal,Pro,Nick,0,Regional,Biodiversity,Comm.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Concrete,Pro,Nick,0,Regional,Production,Creation of AR Mat,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Tires/Rubber,Retro,Jon,Nick,County/Local,Biodiversity,Fish.Enhancement,State_Plan,21,Washington,47.75,-120.7333,Mitig.,Chart_Fish,Permit_reg_agencies
+Composite,Unsure,Nick,0,County/Local,Aggregation,Creation of AR Mat,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Other,Pro,Jon,Nick,County/Local,Biodiversity,Fish.Enhancement,State_Plan,9,Maryland,39.05,-76.6333,Mitig.,Chart_Fish,Permit_reg_agencies
+Other,Unsure,Cyndi,Cyndi,Regional,Production,Creation of AR Mat,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Metal,Retro,Jon,Nick,State,Biodiversity,Comm.Fish.Mngmt,State_Plan,13,Georgia,32.7167,-83.5,Mitig.,Chart_Fish,Permit_reg_agencies
+Concrete,Retro,Cyndi,Cyndi,County/Local,Production,Rec.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Rock,Retro,Cyndi,Cyndi,Regional,Production,Rec.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Concrete,Retro,Will,Will,State,Production,Rec.Fish.Mngmt,State_Code,9,Maryland,39.05,-76.6333,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Concrete,Retro,Will,Will,Regional,Production,Creation of AR Mat,State_Code,10,Virginia,37.5167,-78.6333,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Other,Retro,Nick,0,Regional,Habitat,Creation of AR Mat,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Concrete,Pro,Cyndi,Cyndi,County/Local,Biodiversity,Fish.Enhancement,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Metal,Pro,Cyndi,Cyndi,Regional,Production,Rec.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Concrete,Retro,Cyndi,Cyndi,Regional,Biodiversity,Comm.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Other,Retro,Will,Will,State,Habitat,Rec.Fish.Mngmt,State_Code,13,Georgia,32.7167,-83.5,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Concrete,Retro,LM,0,Regional,Habitat,Creation of AR Mat,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Rock,Unsure,Jon,Nick,County/Local,Aggregation,Rec.Fish.Mngmt,State_Plan,17,Mississippi,32.7333,-89.6667,Mitig.,Chart_Fish,Permit_reg_agencies
+Metal,Retro,Cyndi,Cyndi,County/Local,Habitat,Rec.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Tires/Rubber,Retro,Jon,Nick,Regional,Biodiversity,Rec.Fish.Mngmt,State_Plan,17,Mississippi,32.7333,-89.6667,Mitig.,Chart_Fish,Permit_reg_agencies
+Metal,Unsure,Nick,0,State,Biodiversity,Creation of AR Mat,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Metal,Retro,LM,0,Regional,Biodiversity,Comm.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Metal,Retro,Jon,Nick,County/Local,Biodiversity,Rec.Fish.Mngmt,State_Plan,5,Connecticut,41.6,-72.7,Mitig.,Chart_Fish,Permit_reg_agencies
+Tires/Rubber,Pro,LM,0,Regional,Habitat,Comm.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Composite,Pro,LM,0,County/Local,Biodiversity,Creation of AR Mat,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Composite,Unsure,Nick,0,State,Production,Creation of AR Mat,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Concrete,Retro,Nick,0,County/Local,Biodiversity,Fish.Enhancement,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Rock,Unsure,LM,0,State,Habitat,Rec.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Metal,Retro,Nick,0,County/Local,Biodiversity,Rec.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Concrete,Pro,LM,0,State,Biodiversity,Creation of AR Mat,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Other,Pro,Will,Will,Regional,Habitat,Rec.Fish.Mngmt,State_Code,14,Florida,28.1333,-81.6333,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Tires/Rubber,Retro,Nick,0,State,Biodiversity,Comm.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Tires/Rubber,Pro,Will,Will,Regional,Habitat,Rec.Fish.Mngmt,State_Code,17,Mississippi,32.7333,-89.6667,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Composite,Unsure,Nick,0,Regional,Habitat,Fish.Enhancement,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Composite,Unsure,Nick,0,County/Local,Aggregation,Creation of AR Mat,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Composite,Unsure,Nick,0,State,Production,Rec.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Metal,Retro,Nick,0,State,Biodiversity,Comm.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Metal,Pro,Cyndi,Cyndi,State,Production,Comm.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Metal,Pro,Nick,0,State,Biodiversity,Rec.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Composite,Unsure,Nick,0,County/Local,Production,Comm.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Other,Pro,Nick,0,State,Habitat,Creation of AR Mat,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Composite,Pro,LM,0,County/Local,Biodiversity,Rec.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Tires/Rubber,Unsure,Cyndi,Cyndi,Regional,Habitat,Comm.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Concrete,Retro,Nick,0,Regional,Biodiversity,Creation of AR Mat,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Tires/Rubber,Pro,LM,0,Regional,Production,Fish.Enhancement,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Composite,Unsure,Will,Will,State,Biodiversity,Rec.Fish.Mngmt,State_Code,22,Alaska,64.7333,-152.4667,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Rock,Retro,Will,Will,County/Local,Aggregation,Fish.Enhancement,State_Code,7,New Jersey,39.8333,-74.8667,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Rock,Unsure,LM,0,County/Local,Biodiversity,Fish.Enhancement,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Metal,Retro,Will,Will,State,Habitat,Fish.Enhancement,State_Code,18,Alabama,32.8333,-86.6333,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Metal,Pro,Cyndi,Cyndi,State,Aggregation,Fish.Enhancement,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Rock,Unsure,Jon,Nick,Regional,Biodiversity,Fish.Enhancement,State_Plan,21,Washington,47.75,-120.7333,Mitig.,Chart_Fish,Permit_reg_agencies
+Rock,Pro,Jon,Nick,County/Local,Biodiversity,Creation of AR Mat,State_Plan,20,Oregon,43.9333,-120.5667,Mitig.,Chart_Fish,Permit_reg_agencies
+Metal,Unsure,Jon,Nick,County/Local,Habitat,Rec.Fish.Mngmt,State_Plan,18,Alabama,32.8333,-86.6333,Mitig.,Chart_Fish,Permit_reg_agencies
+Composite,Retro,LM,0,Regional,Production,Fish.Enhancement,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Concrete,Pro,Nick,0,County/Local,Biodiversity,Creation of AR Mat,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Tires/Rubber,Retro,Will,Will,Regional,Habitat,Comm.Fish.Mngmt,State_Code,6,New York,42.9667,-75.5167,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Tires/Rubber,Unsure,LM,0,Regional,Aggregation,Comm.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Metal,Pro,Nick,0,County/Local,Aggregation,Rec.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Composite,Pro,Nick,0,County/Local,Production,Comm.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Metal,Retro,Nick,0,State,Production,Fish.Enhancement,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Tires/Rubber,Unsure,Nick,0,County/Local,Habitat,Creation of AR Mat,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Tires/Rubber,Pro,Nick,0,State,Biodiversity,Rec.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Composite,Pro,Jon,Nick,County/Local,Production,Fish.Enhancement,State_Plan,9,Maryland,39.05,-76.6333,Mitig.,Chart_Fish,Permit_reg_agencies
+Composite,Pro,Jon,Nick,State,Aggregation,Creation of AR Mat,State_Plan,17,Mississippi,32.7333,-89.6667,Mitig.,Chart_Fish,Permit_reg_agencies
+Rock,Pro,Jon,Nick,County/Local,Aggregation,Fish.Enhancement,State_Plan,5,Connecticut,41.6,-72.7,Mitig.,Chart_Fish,Permit_reg_agencies
+Concrete,Unsure,Nick,0,County/Local,Biodiversity,Rec.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Concrete,Unsure,Jon,Nick,Regional,Habitat,Rec.Fish.Mngmt,State_Plan,1,Maine,45.3667,-69.2333,Mitig.,Chart_Fish,Permit_reg_agencies
+Rock,Unsure,Will,Will,County/Local,Biodiversity,Fish.Enhancement,State_Code,22,Alaska,64.7333,-152.4667,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Concrete,Retro,LM,0,County/Local,Biodiversity,Rec.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Concrete,Retro,LM,0,County/Local,Production,Rec.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Metal,Pro,LM,0,County/Local,Habitat,Comm.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Other,Unsure,LM,0,County/Local,Aggregation,Fish.Enhancement,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Other,Retro,LM,0,State,Production,Rec.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Concrete,Unsure,Will,Will,State,Production,Creation of AR Mat,State_Code,23,Hawaii,20.95,-157.2833,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Metal,Unsure,Jon,Nick,State,Biodiversity,Comm.Fish.Mngmt,State_Plan,10,Virginia,37.5167,-78.6333,Mitig.,Chart_Fish,Permit_reg_agencies
+Composite,Retro,Cyndi,Cyndi,Regional,Aggregation,Fish.Enhancement,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Composite,Retro,LM,0,County/Local,Habitat,Creation of AR Mat,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Metal,Retro,Nick,0,State,Production,Creation of AR Mat,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Composite,Retro,Will,Will,Regional,Biodiversity,Fish.Enhancement,State_Code,16,Louisiana,30.4,-92.3333,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Rock,Unsure,Jon,Nick,State,Habitat,Rec.Fish.Mngmt,State_Plan,7,New Jersey,39.8333,-74.8667,Mitig.,Chart_Fish,Permit_reg_agencies
+Concrete,Pro,Nick,0,State,Aggregation,Rec.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Metal,Pro,Will,Will,Regional,Biodiversity,Fish.Enhancement,State_Code,21,Washington,47.75,-120.7333,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Rock,Pro,Cyndi,Cyndi,Regional,Aggregation,Rec.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Concrete,Retro,Nick,0,County/Local,Habitat,Fish.Enhancement,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Rock,Retro,LM,0,State,Aggregation,Comm.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Metal,Pro,Cyndi,Cyndi,State,Aggregation,Comm.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Tires/Rubber,Unsure,Will,Will,Regional,Habitat,Fish.Enhancement,State_Code,14,Florida,28.1333,-81.6333,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Metal,Pro,Jon,Nick,Regional,Aggregation,Creation of AR Mat,State_Plan,12,South Carolina,33.8333,-81.1667,Mitig.,Chart_Fish,Permit_reg_agencies
+Concrete,Retro,LM,0,County/Local,Production,Rec.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Metal,Unsure,Jon,Nick,State,Production,Rec.Fish.Mngmt,State_Plan,3,Massachussetts,42.4,-71.3833,Mitig.,Chart_Fish,Permit_reg_agencies
+Metal,Pro,Jon,Nick,County/Local,Habitat,Creation of AR Mat,State_Plan,12,South Carolina,33.8333,-81.1667,Mitig.,Chart_Fish,Permit_reg_agencies
+Concrete,Unsure,LM,0,State,Biodiversity,Comm.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Composite,Unsure,Will,Will,State,Aggregation,Comm.Fish.Mngmt,State_Code,17,Mississippi,32.7333,-89.6667,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Tires/Rubber,Pro,LM,0,County/Local,Production,Creation of AR Mat,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Concrete,Retro,Will,Will,Regional,Biodiversity,Creation of AR Mat,State_Code,15,Texas,31.4667,-99.3333,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Concrete,Retro,Will,Will,County/Local,Production,Creation of AR Mat,State_Code,3,Massachussetts,42.4,-71.3833,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Other,Unsure,Cyndi,Cyndi,State,Biodiversity,Rec.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Other,Pro,LM,0,State,Habitat,Comm.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Metal,Unsure,LM,0,Regional,Production,Fish.Enhancement,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Rock,Retro,Cyndi,Cyndi,County/Local,Habitat,Fish.Enhancement,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Metal,Unsure,Will,Will,County/Local,Habitat,Creation of AR Mat,State_Code,22,Alaska,64.7333,-152.4667,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Concrete,Unsure,Jon,Nick,State,Aggregation,Fish.Enhancement,State_Plan,6,New York,42.9667,-75.5167,Mitig.,Chart_Fish,Permit_reg_agencies
+Metal,Unsure,Cyndi,Cyndi,State,Production,Fish.Enhancement,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Other,Unsure,Jon,Nick,State,Biodiversity,Creation of AR Mat,State_Plan,2,New Hampshire,43.6833,-71.5833,Mitig.,Chart_Fish,Permit_reg_agencies
+Concrete,Unsure,Nick,0,State,Aggregation,Creation of AR Mat,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Other,Unsure,Jon,Nick,State,Biodiversity,Rec.Fish.Mngmt,State_Plan,18,Alabama,32.8333,-86.6333,Mitig.,Chart_Fish,Permit_reg_agencies
+Tires/Rubber,Retro,LM,0,County/Local,Aggregation,Rec.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Concrete,Pro,Cyndi,Cyndi,State,Aggregation,Comm.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Tires/Rubber,Unsure,Nick,0,Regional,Habitat,Rec.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Concrete,Unsure,Will,Will,County/Local,Production,Comm.Fish.Mngmt,State_Code,20,Oregon,43.9333,-120.5667,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Concrete,Pro,Nick,0,County/Local,Biodiversity,Fish.Enhancement,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Other,Pro,Nick,0,County/Local,Production,Fish.Enhancement,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Rock,Pro,Jon,Nick,Regional,Habitat,Fish.Enhancement,State_Plan,11,North Carolina,35.7833,-79.8167,Mitig.,Chart_Fish,Permit_reg_agencies
+Other,Pro,LM,0,State,Aggregation,Comm.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Composite,Unsure,Nick,0,Regional,Production,Rec.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Metal,Unsure,LM,0,State,Aggregation,Rec.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Concrete,Unsure,Jon,Nick,Regional,Aggregation,Comm.Fish.Mngmt,State_Plan,21,Washington,47.75,-120.7333,Mitig.,Chart_Fish,Permit_reg_agencies
+Concrete,Unsure,Cyndi,Cyndi,County/Local,Biodiversity,Fish.Enhancement,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Other,Retro,Will,Will,State,Biodiversity,Fish.Enhancement,State_Code,16,Louisiana,30.4,-92.3333,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Other,Pro,LM,0,State,Production,Rec.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Concrete,Retro,Cyndi,Cyndi,State,Habitat,Comm.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Concrete,Retro,Cyndi,Cyndi,County/Local,Biodiversity,Comm.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Rock,Pro,LM,0,State,Biodiversity,Fish.Enhancement,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Concrete,Retro,Cyndi,Cyndi,Regional,Production,Creation of AR Mat,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Metal,Pro,Nick,0,County/Local,Biodiversity,Rec.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Metal,Unsure,Jon,Nick,Regional,Aggregation,Fish.Enhancement,State_Plan,13,Georgia,32.7167,-83.5,Mitig.,Chart_Fish,Permit_reg_agencies
+Other,Pro,Cyndi,Cyndi,County/Local,Production,Creation of AR Mat,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Other,Retro,Cyndi,Cyndi,State,Production,Fish.Enhancement,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Composite,Retro,Will,Will,State,Biodiversity,Rec.Fish.Mngmt,State_Code,17,Mississippi,32.7333,-89.6667,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Metal,Unsure,Cyndi,Cyndi,State,Biodiversity,Fish.Enhancement,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Composite,Pro,LM,0,Regional,Production,Fish.Enhancement,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Concrete,Unsure,Cyndi,Cyndi,County/Local,Habitat,Fish.Enhancement,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Metal,Unsure,Jon,Nick,Regional,Habitat,Rec.Fish.Mngmt,State_Plan,20,Oregon,43.9333,-120.5667,Mitig.,Chart_Fish,Permit_reg_agencies
+Metal,Unsure,Cyndi,Cyndi,State,Aggregation,Comm.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Concrete,Unsure,Nick,0,County/Local,Habitat,Fish.Enhancement,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Concrete,Unsure,LM,0,State,Biodiversity,Fish.Enhancement,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Tires/Rubber,Retro,LM,0,Regional,Aggregation,Rec.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Rock,Pro,LM,0,Regional,Aggregation,Rec.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Concrete,Unsure,Nick,0,County/Local,Aggregation,Rec.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Metal,Retro,Nick,0,State,Production,Fish.Enhancement,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Rock,Unsure,Will,Will,County/Local,Aggregation,Fish.Enhancement,State_Code,15,Texas,31.4667,-99.3333,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Other,Retro,LM,0,County/Local,Habitat,Fish.Enhancement,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Composite,Unsure,LM,0,County/Local,Biodiversity,Fish.Enhancement,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Tires/Rubber,Unsure,Nick,0,State,Aggregation,Fish.Enhancement,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Metal,Pro,Cyndi,Cyndi,County/Local,Production,Rec.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Other,Unsure,Cyndi,Cyndi,Regional,Production,Comm.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Composite,Unsure,Jon,Nick,County/Local,Biodiversity,Creation of AR Mat,State_Plan,21,Washington,47.75,-120.7333,Mitig.,Chart_Fish,Permit_reg_agencies
+Rock,Retro,Cyndi,Cyndi,Regional,Habitat,Comm.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Composite,Pro,Jon,Nick,County/Local,Habitat,Fish.Enhancement,State_Plan,17,Mississippi,32.7333,-89.6667,Mitig.,Chart_Fish,Permit_reg_agencies
+Metal,Retro,Jon,Nick,Regional,Production,Comm.Fish.Mngmt,State_Plan,20,Oregon,43.9333,-120.5667,Mitig.,Chart_Fish,Permit_reg_agencies
+Rock,Pro,LM,0,State,Aggregation,Comm.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Rock,Retro,Will,Will,State,Production,Rec.Fish.Mngmt,State_Code,21,Washington,47.75,-120.7333,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Tires/Rubber,Pro,Nick,0,State,Habitat,Fish.Enhancement,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Rock,Unsure,Jon,Nick,Regional,Habitat,Creation of AR Mat,State_Plan,21,Washington,47.75,-120.7333,Mitig.,Chart_Fish,Permit_reg_agencies
+Metal,Pro,Cyndi,Cyndi,State,Aggregation,Rec.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Other,Unsure,LM,0,Regional,Habitat,Rec.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Concrete,Unsure,Cyndi,Cyndi,Regional,Aggregation,Comm.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Tires/Rubber,Pro,LM,0,State,Biodiversity,Creation of AR Mat,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Tires/Rubber,Pro,Will,Will,Regional,Aggregation,Fish.Enhancement,State_Code,8,Delaware,38.9833,-75.5167,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Concrete,Retro,Nick,0,County/Local,Biodiversity,Creation of AR Mat,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Rock,Pro,Jon,Nick,County/Local,Production,Creation of AR Mat,State_Plan,13,Georgia,32.7167,-83.5,Mitig.,Chart_Fish,Permit_reg_agencies
+Metal,Retro,Nick,0,County/Local,Production,Creation of AR Mat,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Composite,Pro,Will,Will,Regional,Aggregation,Rec.Fish.Mngmt,State_Code,18,Alabama,32.8333,-86.6333,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Composite,Retro,LM,0,State,Biodiversity,Comm.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Concrete,Retro,Jon,Nick,State,Habitat,Fish.Enhancement,State_Plan,13,Georgia,32.7167,-83.5,Mitig.,Chart_Fish,Permit_reg_agencies
+Other,Unsure,Cyndi,Cyndi,State,Habitat,Rec.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Tires/Rubber,Pro,Cyndi,Cyndi,County/Local,Biodiversity,Rec.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Concrete,Pro,Will,Will,County/Local,Habitat,Creation of AR Mat,State_Code,23,Hawaii,20.95,-157.2833,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Concrete,Pro,Jon,Nick,County/Local,Production,Fish.Enhancement,State_Plan,3,Massachussetts,42.4,-71.3833,Mitig.,Chart_Fish,Permit_reg_agencies
+Composite,Pro,Nick,0,State,Aggregation,Creation of AR Mat,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Tires/Rubber,Retro,Cyndi,Cyndi,Regional,Aggregation,Fish.Enhancement,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Tires/Rubber,Pro,Will,Will,State,Biodiversity,Rec.Fish.Mngmt,State_Code,9,Maryland,39.05,-76.6333,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Composite,Retro,Cyndi,Cyndi,State,Habitat,Fish.Enhancement,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Concrete,Pro,Jon,Nick,Regional,Aggregation,Fish.Enhancement,State_Plan,23,Hawaii,20.95,-157.2833,Mitig.,Chart_Fish,Permit_reg_agencies
+Metal,Unsure,Nick,0,State,Biodiversity,Fish.Enhancement,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Other,Unsure,Nick,0,State,Aggregation,Fish.Enhancement,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Other,Retro,Jon,Nick,County/Local,Production,Comm.Fish.Mngmt,State_Plan,22,Alaska,64.7333,-152.4667,Mitig.,Chart_Fish,Permit_reg_agencies
+Metal,Retro,Will,Will,State,Production,Fish.Enhancement,State_Code,2,New Hampshire,43.6833,-71.5833,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Other,Retro,Nick,0,County/Local,Aggregation,Rec.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Other,Pro,LM,0,Regional,Aggregation,Creation of AR Mat,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Metal,Pro,LM,0,State,Aggregation,Fish.Enhancement,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Composite,Pro,LM,0,State,Production,Comm.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Metal,Unsure,Nick,0,County/Local,Production,Fish.Enhancement,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Rock,Pro,Jon,Nick,Regional,Production,Rec.Fish.Mngmt,State_Plan,6,New York,42.9667,-75.5167,Mitig.,Chart_Fish,Permit_reg_agencies
+Concrete,Retro,Jon,Nick,Regional,Aggregation,Creation of AR Mat,State_Plan,1,Maine,45.3667,-69.2333,Mitig.,Chart_Fish,Permit_reg_agencies
+Composite,Retro,Jon,Nick,State,Aggregation,Fish.Enhancement,State_Plan,13,Georgia,32.7167,-83.5,Mitig.,Chart_Fish,Permit_reg_agencies
+Rock,Unsure,Cyndi,Cyndi,County/Local,Aggregation,Rec.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Composite,Unsure,LM,0,State,Biodiversity,Creation of AR Mat,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Concrete,Retro,Nick,0,County/Local,Habitat,Rec.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Rock,Unsure,Jon,Nick,County/Local,Biodiversity,Comm.Fish.Mngmt,State_Plan,2,New Hampshire,43.6833,-71.5833,Mitig.,Chart_Fish,Permit_reg_agencies
+Rock,Unsure,Nick,0,Regional,Biodiversity,Comm.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Rock,Retro,Nick,0,State,Aggregation,Rec.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Other,Retro,Nick,0,County/Local,Aggregation,Rec.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Tires/Rubber,Unsure,LM,0,Regional,Production,Fish.Enhancement,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Other,Unsure,Nick,0,County/Local,Aggregation,Comm.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Composite,Retro,Nick,0,County/Local,Production,Comm.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Rock,Retro,Will,Will,State,Aggregation,Creation of AR Mat,State_Code,9,Maryland,39.05,-76.6333,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Tires/Rubber,Unsure,Jon,Nick,Regional,Production,Rec.Fish.Mngmt,State_Plan,12,South Carolina,33.8333,-81.1667,Mitig.,Chart_Fish,Permit_reg_agencies
+Metal,Retro,Will,Will,Regional,Habitat,Comm.Fish.Mngmt,State_Code,21,Washington,47.75,-120.7333,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Concrete,Pro,Cyndi,Cyndi,Regional,Biodiversity,Fish.Enhancement,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Concrete,Pro,Jon,Nick,County/Local,Aggregation,Creation of AR Mat,State_Plan,16,Louisiana,30.4,-92.3333,Mitig.,Chart_Fish,Permit_reg_agencies
+Other,Pro,Cyndi,Cyndi,County/Local,Habitat,Creation of AR Mat,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Tires/Rubber,Pro,Will,Will,State,Aggregation,Fish.Enhancement,State_Code,14,Florida,28.1333,-81.6333,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Metal,Unsure,Will,Will,Regional,Aggregation,Creation of AR Mat,State_Code,5,Connecticut,41.6,-72.7,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Concrete,Pro,Jon,Nick,State,Production,Fish.Enhancement,State_Plan,9,Maryland,39.05,-76.6333,Mitig.,Chart_Fish,Permit_reg_agencies
+Composite,Unsure,Will,Will,County/Local,Production,Comm.Fish.Mngmt,State_Code,1,Maine,45.3667,-69.2333,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Other,Unsure,Nick,0,County/Local,Habitat,Creation of AR Mat,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Metal,Unsure,Jon,Nick,State,Habitat,Fish.Enhancement,State_Plan,4,Rhode Island,41.6667,-71.5,Mitig.,Chart_Fish,Permit_reg_agencies
+Concrete,Pro,Cyndi,Cyndi,County/Local,Aggregation,Comm.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Other,Unsure,Will,Will,State,Aggregation,Creation of AR Mat,State_Code,5,Connecticut,41.6,-72.7,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Other,Pro,Jon,Nick,State,Production,Creation of AR Mat,State_Plan,18,Alabama,32.8333,-86.6333,Mitig.,Chart_Fish,Permit_reg_agencies
+Metal,Pro,Will,Will,County/Local,Aggregation,Rec.Fish.Mngmt,State_Code,21,Washington,47.75,-120.7333,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Rock,Unsure,Will,Will,State,Biodiversity,Fish.Enhancement,State_Code,13,Georgia,32.7167,-83.5,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Metal,Unsure,Nick,0,State,Aggregation,Comm.Fish.Mngmt,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Tires/Rubber,Unsure,Cyndi,Cyndi,State,Aggregation,Comm.Fish.Mngmt,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Concrete,Retro,Cyndi,Cyndi,County/Local,Habitat,Fish.Enhancement,Fed_Code,99,National,39.8333,-98.5833,Disposal,Comm_Fish,AS_constructors
+Rock,Retro,Will,Will,State,Production,Creation of AR Mat,State_Code,9,Maryland,39.05,-76.6333,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Other,Retro,Will,Will,State,Biodiversity,Creation of AR Mat,State_Code,21,Washington,47.75,-120.7333,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Tires/Rubber,Unsure,LM,0,Regional,Habitat,Fish.Enhancement,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Tires/Rubber,Unsure,Nick,0,Regional,Biodiversity,Creation of AR Mat,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Composite,Pro,Jon,Nick,County/Local,Biodiversity,Creation of AR Mat,State_Plan,7,New Jersey,39.8333,-74.8667,Mitig.,Chart_Fish,Permit_reg_agencies
+Concrete,Unsure,Nick,0,State,Aggregation,Creation of AR Mat,Guide,999,UNK,25,-90,Wave_attenuation,Scuba,anglers
+Concrete,Unsure,Jon,Nick,County/Local,Biodiversity,Creation of AR Mat,State_Plan,17,Mississippi,32.7333,-89.6667,Mitig.,Chart_Fish,Permit_reg_agencies
+Rock,Unsure,Will,Will,County/Local,Aggregation,Rec.Fish.Mngmt,State_Code,16,Louisiana,30.4,-92.3333,Hab_enhancement,Rec_Fish,AR_proj_plan_mngrs
+Metal,Retro,LM,0,Regional,Habitat,Fish.Enhancement,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Other,Retro,LM,0,Regional,Production,Rec.Fish.Mngmt,Summ_Article,999,UNK,25,-90,Hab_restoration,Non-Fish_rec,people_interested
+Metal,Retro,Jon,Nick,State,Aggregation,Fish.Enhancement,State_Plan,12,South Carolina,33.8333,-81.1667,Mitig.,Chart_Fish,Permit_reg_agencies
